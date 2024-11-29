@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, tarading, machine learning
 - 🌱 I’m currently learning basics on programming at CS50x Iran
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me omid_taji@yahoo.com
+- 📫 How to reach me omid_taji@outlook.com
 - A very nube programmer
 
 <!---
